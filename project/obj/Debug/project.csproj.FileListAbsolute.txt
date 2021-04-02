@@ -1,0 +1,27 @@
+E:\Third Year\First Term\C#\project\project\bin\Debug\project.exe.config
+E:\Third Year\First Term\C#\project\project\bin\Debug\project.exe
+E:\Third Year\First Term\C#\project\project\bin\Debug\project.pdb
+E:\Third Year\First Term\C#\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+E:\Third Year\First Term\C#\project\project\obj\Debug\project.Form1.resources
+E:\Third Year\First Term\C#\project\project\obj\Debug\project.Properties.Resources.resources
+E:\Third Year\First Term\C#\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+E:\Third Year\First Term\C#\project\project\obj\Debug\project.exe
+E:\Third Year\First Term\C#\project\project\obj\Debug\project.pdb
+E:\Third Year\First Term\C#\project gallery\project\project\bin\Debug\project.exe.config
+E:\Third Year\First Term\C#\project gallery\project\project\obj\Debug\project.exe
+E:\Third Year\First Term\C#\project gallery\project\project\obj\Debug\project.pdb
+E:\Third Year\First Term\C#\project gallery\project\project\bin\Debug\project.exe
+E:\Third Year\First Term\C#\project gallery\project\project\bin\Debug\project.pdb
+E:\Third Year\First Term\C#\project gallery\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+E:\Third Year\First Term\C#\project gallery\project\project\obj\Debug\project.Form1.resources
+E:\Third Year\First Term\C#\project gallery\project\project\obj\Debug\project.Properties.Resources.resources
+E:\Third Year\First Term\C#\project gallery\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+E:\Third Year\First Term\Pro C#\project\project\bin\Debug\project.exe.config
+E:\Third Year\First Term\Pro C#\project\project\bin\Debug\project.exe
+E:\Third Year\First Term\Pro C#\project\project\bin\Debug\project.pdb
+E:\Third Year\First Term\Pro C#\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+E:\Third Year\First Term\Pro C#\project\project\obj\Debug\project.Form1.resources
+E:\Third Year\First Term\Pro C#\project\project\obj\Debug\project.Properties.Resources.resources
+E:\Third Year\First Term\Pro C#\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+E:\Third Year\First Term\Pro C#\project\project\obj\Debug\project.exe
+E:\Third Year\First Term\Pro C#\project\project\obj\Debug\project.pdb
